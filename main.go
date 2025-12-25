@@ -10,3 +10,7 @@ func main() {
 func getText() string {
 	return "This is a sample function."
 }
+
+func getText2() string {
+	return "this is utility branch"
+}
